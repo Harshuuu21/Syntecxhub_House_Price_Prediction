@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction (California Housing)
+# 🏠 House Price Prediction (California Housing Zone)
 
 A complete, end-to-end Machine Learning project that predicts median house prices in California based on features like median income, house age, and location.
 
